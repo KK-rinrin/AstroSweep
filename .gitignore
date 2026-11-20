@@ -1,8 +1,7 @@
-node_modules/
-build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+# Ignore all files and folders unrelated to running standalone/index.html
+*
+
+# Keep .gitignore and the standalone self-contained index.html tracked
+!.gitignore
+!standalone/
+!standalone/index.html
