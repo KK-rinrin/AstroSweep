@@ -1,7 +1,6 @@
-# Ignore all files and folders unrelated to running standalone/index.html
+# Ignore all files and folders unrelated to running the root index.html
 *
 
-# Keep .gitignore and the standalone self-contained index.html tracked
+# Keep .gitignore and the standalone self-contained root index.html tracked
 !.gitignore
-!standalone/
-!standalone/index.html
+!/index.html
