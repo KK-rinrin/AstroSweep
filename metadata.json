@@ -1,0 +1,6 @@
+{
+  "name": "アストロスイープ",
+  "description": "コンボ倍率・フィーバー演出・音階上昇シンセを搭載した宇宙テーマの爽快マインスイーパー。フィールドの広さと地雷数を自由に調整可能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
